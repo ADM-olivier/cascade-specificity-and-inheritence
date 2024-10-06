@@ -1,0 +1,21 @@
+body{
+    height: 200vh;
+    width: 150vw;
+}
+.div{
+    inset: 0px;
+}
+
+div{
+    border: 2px solid black;
+    display: inline;
+    position: relative;
+    inset: 20px;
+    margin: 10px;
+
+}
+
+#positioned{
+    position: relative;
+    background-color: blue;
+}
